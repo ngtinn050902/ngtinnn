@@ -163,12 +163,18 @@ html {
     line-height: 46px;
 }
 
-#slider {
+/* .slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/slider/pexels-amelie-sanchez-10182651.jpg') top center / cover no-repeat;
+    background: top center / cover no-repeat;
     width: 100%;
     
+}
+*/
+
+img {
+    background: top center / cover no-repeat;
+    width: 100%;
 }
 
 
